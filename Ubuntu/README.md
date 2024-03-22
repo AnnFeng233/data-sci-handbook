@@ -1,3 +1,10 @@
+# Vim syntax
+
+Edit file `sudo vim <file_path/file_name>`
+
+Exit file 1. press Esc key; 2. `:q` quit, `:q!` quit without saving, `:x` save and quit, `:qa` quit all open file 
+
+
 # Install java
 
 Update system package `$ sudo apt update`
