@@ -12,6 +12,14 @@ Install Java `$ sudo apt install default-jkd -y`
 
 See version `$ java -version`
 
+## Install Python and pip
+
+Python `sudo apt-get install python3`
+
+Pip `sudo apt-get install python3-pip`, to install package `pip3 install <package_name>`
+
+Create python env `python3 -m venv myenv`, activate the env `source myenv/bin/activate`, exit `deactivate`
+
 ## Install Apache Spark
 (java required)
 
